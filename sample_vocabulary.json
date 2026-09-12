@@ -1,0 +1,42 @@
+[
+  {
+    "id": "w0001",
+    "word_ar": "كِتَاب",
+    "meaning_en": "book",
+    "pos": "noun",
+    "root": "ك ت ب",
+    "tier": "1"
+  },
+  {
+    "id": "w0002",
+    "word_ar": "مَدْرَسَة",
+    "meaning_en": "school",
+    "pos": "noun",
+    "root": "د ر س",
+    "tier": "1"
+  },
+  {
+    "id": "w0003",
+    "word_ar": "ذَهَبَ",
+    "meaning_en": "went",
+    "pos": "verb",
+    "root": "ذ ه ب",
+    "tier": "1"
+  },
+  {
+    "id": "w0004",
+    "word_ar": "مَاء",
+    "meaning_en": "water",
+    "pos": "noun",
+    "root": "",
+    "tier": "1"
+  },
+  {
+    "id": "w0005",
+    "word_ar": "طَعَام",
+    "meaning_en": "food",
+    "pos": "noun",
+    "root": "ط ع م",
+    "tier": "1"
+  }
+]
