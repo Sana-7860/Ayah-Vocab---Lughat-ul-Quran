@@ -1,0 +1,24 @@
+Hi Team Lead,
+
+I have prepared my Learning Engine / Spaced Repetition module for the hackathon.
+
+My part covers:
+- 5-box spaced repetition
+- Per-word mastery tracking
+- Correct/wrong answer scoring
+- Weak-word prioritization
+- Review scheduling
+- Wrong-answer logging for AI diagnosis
+- Seen vs mastered tier completion
+
+The attached package contains:
+1. learning_engine.py
+2. sample_vocabulary.json
+3. README.md with Streamlit and AI integration instructions
+
+Dependencies:
+- Data member: permanent word IDs + final vocabulary JSON structure
+- Streamlit member: store engine_state in st.session_state
+- AI member: consume wrong_answers_log / recent errors
+
+For the MVP, I recommend keeping persistence in st.session_state and avoiding database complexity until the core flow is stable.
